@@ -1,0 +1,12 @@
+h1.gustavo{color: lightcoral;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.{color: blueviolet;}
+
+table, td{
+    border-collapse:separate ;
+    border: 10px solid orange;
+    background-color: aquamarine;
+
+}
